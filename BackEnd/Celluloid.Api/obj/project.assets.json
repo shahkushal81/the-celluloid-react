@@ -3043,11 +3043,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\THE_CELLULOID_REACT\\Celluloid.Api\\Celluloid.Api.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\THE_CELLULOID_REACT\\BackEnd\\Celluloid.Api\\Celluloid.Api.csproj",
       "projectName": "Celluloid.Api",
-      "projectPath": "C:\\Users\\User\\Downloads\\THE_CELLULOID_REACT\\Celluloid.Api\\Celluloid.Api.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\THE_CELLULOID_REACT\\BackEnd\\Celluloid.Api\\Celluloid.Api.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\THE_CELLULOID_REACT\\Celluloid.Api\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\THE_CELLULOID_REACT\\BackEnd\\Celluloid.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
