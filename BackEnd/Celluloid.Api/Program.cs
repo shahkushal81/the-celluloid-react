@@ -11,7 +11,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("Celluloid", policy =>
     {
         policy
-            .AllowAnyOrigin()
+            .WithOrigins("https://thecelluloid.netlify.app")
             .AllowAnyHeader()
             .AllowAnyMethod();
     });
