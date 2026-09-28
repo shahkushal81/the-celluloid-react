@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Celluloid.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52fbf76eeabd31dfaaa5fd335e1bbf61362596e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de19db9505b8f293357262f986d9ba91b3e8076b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Celluloid.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Celluloid.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
