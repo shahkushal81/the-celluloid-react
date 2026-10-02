@@ -17,9 +17,12 @@ builder.Services.AddCors(options =>
     });
 });
 
-builder.Services.AddDbContext<CelluloidDbContext>(options =>
-    options.UseNpgsql(
-        builder.Configuration.GetConnectionString("DefaultConnection")
+    builder.Services.AddDbContext<CelluloidDbContext>(options =>
+        options.UseMySql(
+            builder.Configuration.GetConnectionString("DefaultConnection"),
+            ServerVersion.AutoDetect(
+                builder.Configuration.GetConnectionString("DefaultConnection")
+            )
     ));
 
     builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
